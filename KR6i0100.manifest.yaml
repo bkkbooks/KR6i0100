@@ -1,0 +1,377 @@
+canonical_identifier: bkk:krp/KR6i0100/v1
+canonical_location: https://kanripo.org/bkk/KR6i0100/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 維摩經疏記
+  identifiers:
+    alt_id:
+    - X18n0340
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X18/X18n0340.xml
+    old_id: X18n0340
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0100_000.yaml, hash: 'sha256:6d82902a2a4e1443641030e6b0c23e50c2b29b353a199815084a8f2d03058fb2'}
+  - {seq: 1, filename: KR6i0100_001.yaml, hash: 'sha256:fce8bd06a6c01832150fe0e93f2bc9765c3383137491567923a6643be39dd1f2'}
+  - {seq: 2, filename: KR6i0100_002.yaml, hash: 'sha256:8afe6679b9aeab6a496332cfbb633374ba10dbb65adf4bda050729f33583ddb9'}
+  - {seq: 3, filename: KR6i0100_003.yaml, hash: 'sha256:a1d2031eb9ce53477717818a1197c33c41576a8eefd0b3d630f777a1906e6207'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0100_000.markers.yaml, hash: 'sha256:60b0f18520751f0258304cab78c713930c856689acbbd86c1d328ecfad088218'}
+  - {seq: 1, role: markers, filename: assets/KR6i0100_001.markers.yaml, hash: 'sha256:04bd94df267b06840289d7a9f3ef225b3e9d35a1f1bff8fad42d6e4fb0e9c9ec'}
+  - {seq: 2, role: markers, filename: assets/KR6i0100_002.markers.yaml, hash: 'sha256:5101c3157379c0eb3553367fb44e602b2101db7377f79538121bd7581359f4c5'}
+  - {seq: 3, role: markers, filename: assets/KR6i0100_003.markers.yaml, hash: 'sha256:e5e4ab959942c8b3023352b83e06207dff65bb218303f1494b3f22fe04dd7e18'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0100_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 340-A 刻淨名疏記序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0100_X_000-mulu-2
+    span:
+    - front
+    - 344
+    - 344
+  label: No. 340-B 刻維摩經疏記辯語
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0100_X_000-mulu-3
+    span:
+    - front
+    - 838
+    - 838
+  label: No. 340-C 維摩經疏記序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0100_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 28217
+  label: 維摩經疏記卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0100_X_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 淨名疏卷第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0100_X_001-mulu-2
+    span:
+    - body
+    - 4302
+    - 4302
+  label: 淨名疏卷第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0100_X_001-mulu-3
+    span:
+    - body
+    - 5662
+    - 5662
+  label: 淨名疏卷第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0100_X_001-mulu-4
+    span:
+    - body
+    - 7245
+    - 7245
+  label: 淨名疏卷第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0100_X_001-mulu-5
+    span:
+    - body
+    - 8275
+    - 8275
+  label: 淨名疏卷第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0100_X_001-mulu-6
+    span:
+    - body
+    - 9456
+    - 9456
+  label: 淨名疏卷第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0100_X_001-mulu-7
+    span:
+    - body
+    - 13889
+    - 13889
+  label: 淨名疏卷第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0100_X_001-mulu-8
+    span:
+    - body
+    - 18505
+    - 18505
+  label: 淨名疏卷第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0100_X_001-mulu-9
+    span:
+    - body
+    - 23649
+    - 23649
+  label: 淨名疏卷第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0100_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 30857
+  label: 維摩經疏記卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0100_X_002-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 淨名疏卷第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0100_X_002-mulu-2
+    span:
+    - body
+    - 4686
+    - 4686
+  label: 淨名疏卷第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0100_X_002-mulu-3
+    span:
+    - body
+    - 8007
+    - 8007
+  label: 淨名疏卷第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0100_X_002-mulu-4
+    span:
+    - body
+    - 14483
+    - 14483
+  label: 淨名疏卷第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0100_X_002-mulu-5
+    span:
+    - body
+    - 19550
+    - 19550
+  label: 淨名疏卷第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0100_X_002-mulu-6
+    span:
+    - body
+    - 24109
+    - 24109
+  label: 淨名疏卷第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0100_X_002-mulu-7
+    span:
+    - body
+    - 28194
+    - 28194
+  label: 淨名疏卷第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0100_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 24994
+  label: 維摩經疏記卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0100_X_003-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 淨名疏卷第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0100_X_003-mulu-2
+    span:
+    - body
+    - 2525
+    - 2525
+  label: 淨名疏卷第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0100_X_003-mulu-3
+    span:
+    - body
+    - 4033
+    - 4033
+  label: 淨名疏卷第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0100_X_003-mulu-4
+    span:
+    - body
+    - 7434
+    - 7434
+  label: 淨名疏卷第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0100_X_003-mulu-5
+    span:
+    - body
+    - 10129
+    - 10129
+  label: 淨名疏卷第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0100_X_003-mulu-6
+    span:
+    - body
+    - 12560
+    - 12560
+  label: 淨名疏卷第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0100_X_003-mulu-7
+    span:
+    - body
+    - 13575
+    - 13575
+  label: 淨名疏卷第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0100_X_003-mulu-8
+    span:
+    - body
+    - 16851
+    - 16851
+  label: 淨名疏卷第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0100_X_003-mulu-9
+    span:
+    - body
+    - 18257
+    - 18257
+  label: 淨名疏卷第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0100_X_003-mulu-10
+    span:
+    - body
+    - 22157
+    - 22157
+  label: 淨名疏卷第二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0100_X_003-mulu-11
+    span:
+    - body
+    - 24047
+    - 24047
+  label: 淨名疏卷第二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0100_X_003-mulu-12
+    span:
+    - body
+    - 24517
+    - 24517
+  label: 淨名疏卷第二十八
+  type: mulu
+  level: 1
+hash: sha256:73c7a1e51945e7627822ab38223d96916f1f3205e2daabba32f2b7614fb2ea3f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

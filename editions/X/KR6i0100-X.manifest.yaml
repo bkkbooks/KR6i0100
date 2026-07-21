@@ -19,12 +19,12 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0100_000-X.yaml, hash: 'sha256:b92e272b3c23b00a9704d5c29dd07d731587f7331f3a6223c3a50cf5af271cbb'}
+  - {seq: 0, filename: KR6i0100_000-X.yaml, hash: 'sha256:7a5992580e7b9202dd43a1160e610fd899ae4c549db9ce13ebdeb19ec7c39be2'}
   - {seq: 1, filename: KR6i0100_001-X.yaml, hash: 'sha256:dc7deca599f7e653b02c9a60a80db368892122709129c3da7973fb5314804479'}
   - {seq: 2, filename: KR6i0100_002-X.yaml, hash: 'sha256:c24ee8fb852fa117ec429ca1351fe40ed5f22423229ef57d7100b615f26801e7'}
   - {seq: 3, filename: KR6i0100_003-X.yaml, hash: 'sha256:66663f4a5c1c8ba7cd9e66c2ce8a9151bd56327d79c1a3d6a0137328a7ca2891'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0100_000-X.markers.yaml, hash: 'sha256:0019e234d9ab1832f7fa886aa7446890a567f59bd83c0ba101ba6d7c2ad99c20'}
+  - {seq: 0, role: markers, filename: assets/KR6i0100_000-X.markers.yaml, hash: 'sha256:8ebc88a2b253485175b6961d82818cb8dd72c559ffe0479a5c8c3372c510e192'}
   - {seq: 1, role: markers, filename: assets/KR6i0100_001-X.markers.yaml, hash: 'sha256:2f3c0c8c1b9257f1b0243de83f803bffd9e03c0b383a105cdc62b6cbeadf6b12'}
   - {seq: 2, role: markers, filename: assets/KR6i0100_002-X.markers.yaml, hash: 'sha256:95b30f462262ffef6dff1e91389143e28f9aa1d61dbcc8ad8c56f7abcd1369c2'}
   - {seq: 3, role: markers, filename: assets/KR6i0100_003-X.markers.yaml, hash: 'sha256:4aaea45ad74663bc1b5c096d7e4534ac6e23efb41270598200fdc31bee18935d'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0100_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 340-A 刻淨名疏記序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0100_X_000-mulu-2
     span:
-    - front
+    - body
     - 344
     - 344
   label: No. 340-B 刻維摩經疏記辯語
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0100_X_000-mulu-3
     span:
-    - front
+    - body
     - 838
     - 838
   label: No. 340-C 維摩經疏記序
@@ -369,4 +369,4 @@ table_of_contents:
   label: 淨名疏卷第二十八
   type: mulu
   level: 1
-hash: sha256:08553de5c3e275a208d375f8f1518150d1f5fea49b82617ac39b58db09d75018
+hash: sha256:0ee7bd62bcde7da31000d5a2d25f336188b7008f585ecc3d6b0292af288431e8

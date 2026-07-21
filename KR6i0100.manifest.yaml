@@ -21,12 +21,12 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0100_000.yaml, hash: 'sha256:5c7347770ac8604c95d441858911b8917b5e173b6e486f691fe11814e424ef0d'}
+  - {seq: 0, filename: KR6i0100_000.yaml, hash: 'sha256:7c2117bbf706c7abe1135cb5fdce32fa790e1fd6b1742756935001231a02f892'}
   - {seq: 1, filename: KR6i0100_001.yaml, hash: 'sha256:9ccdc4c5ea307f04f70de8f710971c7dd12d335ccab13e60924b37b01d48505a'}
   - {seq: 2, filename: KR6i0100_002.yaml, hash: 'sha256:621d50cb94e489cabf7c85e1da911c27acecd2eec134bd15e754b84cd00c3738'}
   - {seq: 3, filename: KR6i0100_003.yaml, hash: 'sha256:2588de7a75012048eee59b0c8c73ae2a7ea2e76514802f23f789478f1067ea70'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0100_000.markers.yaml, hash: 'sha256:ead1d66c835d0e317e153b40f321a19157d0fbea5b95d695ce2135ef04cbcb8c'}
+  - {seq: 0, role: markers, filename: assets/KR6i0100_000.markers.yaml, hash: 'sha256:1e59508ee2d9a738ac1d13175c70bd367db514e8cceebd6ec45a849dcc6fcd4b'}
   - {seq: 1, role: markers, filename: assets/KR6i0100_001.markers.yaml, hash: 'sha256:2d22f7774c34ec02d344ef70a6ee27435c900dfa6db8ee286c4fb1dddb209d77'}
   - {seq: 2, role: markers, filename: assets/KR6i0100_002.markers.yaml, hash: 'sha256:cc88bc79c8879f186e1502e6462a856fcb28f5cf81dbd23fed4f5a0644c312c9'}
   - {seq: 3, role: markers, filename: assets/KR6i0100_003.markers.yaml, hash: 'sha256:630b2174b248d0faf3136c1c2efe6e99c238560ffb4f833ba7b2ecb882646e2c'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0100_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 340-A 刻淨名疏記序
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0100_X_000-mulu-2
     span:
-    - front
+    - body
     - 344
     - 344
   label: No. 340-B 刻維摩經疏記辯語
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0100_X_000-mulu-3
     span:
-    - front
+    - body
     - 838
     - 838
   label: No. 340-C 維摩經疏記序
@@ -371,7 +371,7 @@ table_of_contents:
   label: 淨名疏卷第二十八
   type: mulu
   level: 1
-hash: sha256:dd31b1fb6daa127707179630ce3016af03a23259b8edc73bb7d68b4d51f2cb15
+hash: sha256:10c086d11744dc3fc9fc25ca6192eb158db992b33cf69736f605f6cdb7f178c5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
